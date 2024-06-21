@@ -30,7 +30,7 @@ Trigger functions in AIRA initiate automated workflows based on predefined condi
 
 ## Support
 
-For support or inquiries regarding these integrations, please contact our support team at connect@aira.fr or visit our [website](www.aira.fr).
+For support or inquiries regarding these functions, please contact our support team at connect@aira.fr or visit our [website](www.aira.fr).
 
 ---
 
