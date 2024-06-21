@@ -19,13 +19,19 @@ Trigger functions in AIRA initiate automated workflows based on predefined condi
 - **Real-Time Processing**: Instantly react to incoming data or system events.
 - **Integration Flexibility**: Connect with external systems or APIs to trigger actions.
 
----
-
-Feel free to expand each section with specific examples, usage guidelines, or additional details based on your repository's functionality and user needs. Adjust the formatting and content to best fit the documentation style and audience preferences.
-
 ----
 
 ### Document Links
 
 - [Form Functions](https://github.com/airacommunity/AIRA-Functions-Document/blob/main/1.%20Form%20Functions.md)
 - [Trigger Functions](https://github.com/airacommunity/AIRA-Functions-Document/blob/main/2.%20Trigger%20Functions.md)
+
+-----
+
+## Support
+
+For support or inquiries regarding these integrations, please contact our support team at connect@aira.fr or visit our [website](www.aira.fr).
+
+---
+
+Feel free to modify and expand upon this README to suit the specific details and structure of your Aira integration repository.
